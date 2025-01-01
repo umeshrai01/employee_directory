@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Django
+*.pyc
+*.pyo
+__pycache__/
+db.sqlite3
+
+# Static files (optional, if you don't want to upload the compiled JS)
+frontend/static/frontend/*
+
+# VS Code
+.vscode/
